@@ -18,7 +18,7 @@ var addTwoNumbers = function(l1, l2) {
     while (l1 || l2 || carry) {
         const calculationResult = ((l1?.val || 0) + (l2?.val || 0) + carry)
         current.next = new ListNode(calculationResult % 10);
-        carry = ~~(calculationResult/10)
+        carry = calculationResult >= 10 ? 1 : 0; // faster than using Math.truncate
         l1 = l1?.next
         l2 = l2?.next
         current = current.next;
