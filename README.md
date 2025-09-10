@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deluxejamie/leetcode/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/deluxejamie/leetcode/tree/master/0039-combination-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deluxejamie/leetcode/tree/master/0002-add-two-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/deluxejamie/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
