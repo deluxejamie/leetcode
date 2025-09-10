@@ -15,18 +15,12 @@ const chars = {
 }
 
 var letterCombinations = function(digits) {
-
     if (digits.length == 0) return []
-
     const solutions = [];
 
     const solver = (currentString, position) => {
-        if (position == digits.length) return solutions.push(currentString)
-        const currentChar = digits[position];
-
-        for (const char of chars[currentChar]) solver(currentString+char,position+1)
-        
-
+        if (position == digits.length) return solutions.push(currentString);
+        for (const char of chars[digits[position]]) solver(currentString+char,position+1)
     }
 
     solver("",0)
