@@ -21,12 +21,11 @@ var letterCombinations = function(digits) {
     const solutions = [];
 
     const solver = (currentString, position) => {
+        if (position == digits.length) return solutions.push(currentString)
         const currentChar = digits[position];
-        if (position == digits.length - 1) {
-            for (const char of chars[currentChar]) solutions.push(currentString+char)
-        } else {
-            for (const char of chars[currentChar]) solver(currentString+char,position+1)
-        }
+
+        for (const char of chars[currentChar]) solver(currentString+char,position+1)
+        
 
     }
 
