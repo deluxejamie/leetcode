@@ -5,16 +5,16 @@
 var lengthOfLongestSubstring = function(s) {
     let longestSubstring = 0;
     let front = 0;
+    const charsUsed = new Map();
 
-    while (front < (s.length - longestSubstring)) {
-        const charsUsed = new Map();
-        let end = front;
-        while (end < s.length && !charsUsed.has(s[end])) {
-            charsUsed.set(s[end],end);
-            end++;
-        };
-        if (longestSubstring < charsUsed.size) longestSubstring = charsUsed.size
-        front = charsUsed.get(s[end])+1;
+    for (let end=0;end<s.length;end++) {
+        // if it hasnt been seen then undefined >= any number is false
+        if (charsUsed.get(s[end]) >= front) {
+            front = charsUsed.get(s[end])+1;
+        }
+        charsUsed.set(s[end],end);
+        longestSubstring = Math.max(end+1-front,longestSubstring)
     }
+
     return longestSubstring;
 };
