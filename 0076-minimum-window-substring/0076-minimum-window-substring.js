@@ -7,20 +7,16 @@ var minWindow = function(s, t) {
     // dummy result
     let shortestSubstring = s + "."
     const lettersNeeded = new Map();
-    const distinctLetters = new Set();
 
+    let required = t.length;
 
-    for (let i=0; i<t.length;i++) {
-        lettersNeeded.set(t[i],(lettersNeeded.get(t[i]) ?? 0)+1);
-        distinctLetters.add(t[i]);
-    }
-
-    const distinctLettersArr = [...distinctLetters];
+    for (let i=0; i<t.length;i++) { lettersNeeded.set(t[i],(lettersNeeded.get(t[i]) ?? 0)+1); }
 
     let start = 0;
     for (let end = 0; end < s.length; end++) {
         if (lettersNeeded.has(s[end])) {
             const demandForLetter = lettersNeeded.get(s[end])-1;
+            if (demandForLetter >= 0) required--;
             lettersNeeded.set(s[end],demandForLetter);
         }
         while ((lettersNeeded.get(s[start]) ?? -1) < 0 && start < end) {
@@ -30,7 +26,7 @@ var minWindow = function(s, t) {
 
 
 
-        if (distinctLettersArr.every(l => (lettersNeeded.get(l) ?? 0) <= 0) && shortestSubstring.length > (end + 1 - start)) shortestSubstring = s.substring(start,end+1);
+        if (required ==0 && shortestSubstring.length > (end + 1 - start)) shortestSubstring = s.substring(start,end+1);
         
     }
 
