@@ -6,16 +6,14 @@
 const MIN = - (2 ** 31) 
 const MAX = (2 ** 31) - 1;
 var reverse = function(x) {
-    const xStr = x.toString();
-    let result = "";
-    let end = 0;
-    if (xStr?.[0] == "-") {
-        result+="-";
-        end++;
+ let result = "";
+    const isNegative = x<0 ? -1 : 1;
+    const stringifiedRes = Math.abs(x).toString();
+    for (let i=stringifiedRes.length-1;i>=0;i--) {
+        result+=stringifiedRes[i];
     }
-    for (let i=xStr.length-1;i>=end;i--) result+=xStr[i];
     result = parseInt(result);
-    if (result >MAX || result < MIN) return 0;
-    return result
+    return (result < MIN || result > MAX) ? 0 : 
+    result * isNegative;
 
 };
