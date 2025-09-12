@@ -6,28 +6,16 @@
 var characterReplacement = function(s, k) {
     let longestSection = 0;
     let start = 0;
-    let mostCommonChar = "";
+    let mostFreqCount = 0;
     let chars = new Map();
-    for (let end=0;end <s.length;end++) {
-        let newFreq = (chars.get(s[end]) ?? 0) +1
+    for (let end=0;end<s.length;end++) {
+        let newFreq = (chars.get(s[end]) ?? 0) + 1;
         chars.set(s[end],newFreq);
-        if (newFreq >= ( chars.get(mostCommonChar) ?? 0)) {
-            mostCommonChar = s[end];
-        }
+        mostFreqCount = Math.max(mostFreqCount,newFreq);
 
-        while ((end+1-(start+chars.get(mostCommonChar))) > k) {
+        while((end+1-(start+mostFreqCount) > k)) {
             chars.set(s[start],chars.get(s[start])-1);
-            start++;
-            // recalculate most common char
-            let newMostCommonChar = chars.get(mostCommonChar)
-            if (newMostCommonChar < longestSection / 2) {
-                for (const [k,v] of chars) {
-                    if (newMostCommonChar < v) {
-                        mostCommonChar = k;
-                        break;
-                    }
-                };
-            }
+            start++
         }
 
         longestSection = Math.max((end+1-start),longestSection);
