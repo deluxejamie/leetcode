@@ -7,7 +7,7 @@ var combine = function(n, k) {
     const results = [];
 
     const solver = (choices,position) => {
-        if (choices.length == k) results.push([...choices]);
+        if (choices.length == k) return results.push([...choices]);
         
         for (let i=position; k - (choices.length) <= (n + 1 - i) && i <= n;i++) {
             choices.push(i);
