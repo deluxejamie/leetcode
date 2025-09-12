@@ -3,12 +3,12 @@
  * @return {boolean}
  */
 var doesAliceWin = function(s) {
-    const vowels = new Map();
+    const vowels = new Set();
     for (const v of ["a","e","i","o","u"]) {
-        vowels.set(v,true);
+        vowels.add(v.charCodeAt(0));
     }
     for (let i=0; i< s.length;i++) {
-        if (vowels.has(s[i])) return true
+        if (vowels.has(s.charCodeAt(i))) return true
     }
 
     return false
