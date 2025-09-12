@@ -6,7 +6,6 @@
  */
 var maxSatisfied = function(customers, grumpy, minutes) {
     let bestGained = 0;
-    let bestEnd = minutes-1;
     let normalTotal = 0;
     for (let i=0;i<minutes;i++) {
         bestGained+=customers[i] * (grumpy[i]);
@@ -19,14 +18,10 @@ var maxSatisfied = function(customers, grumpy, minutes) {
         normalTotal += customers[end] * (1-grumpy[end]);
         if (workingGained > bestGained) {
             bestGained = workingGained;
-            bestEnd = end;
         }
     }
 
-    for (let i=bestEnd+1-minutes;i<=(bestEnd);i++) {
-        normalTotal += (customers[i]) * (grumpy[i]);
-    }
-    return normalTotal
+    return normalTotal + bestGained;
 
     
 };
