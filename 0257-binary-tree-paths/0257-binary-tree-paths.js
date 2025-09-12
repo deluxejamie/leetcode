@@ -14,7 +14,6 @@ var binaryTreePaths = function(root) {
     const results = [];
 
     const solver = (str,node) => {
-        
         const thisStr = str == "" ? node.val.toString() : (str + "->" + node.val);
         if (!node.left && !node.right) return results.push(thisStr);
         if (node.left) solver(thisStr,node.left);
@@ -22,5 +21,4 @@ var binaryTreePaths = function(root) {
     }
     solver("",root);
     return results;
-    
 };
