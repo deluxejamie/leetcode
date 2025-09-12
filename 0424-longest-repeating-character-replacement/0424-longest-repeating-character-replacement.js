@@ -19,11 +19,15 @@ var characterReplacement = function(s, k) {
             chars.set(s[start],chars.get(s[start])-1);
             start++;
             // recalculate most common char
-            for (const [k,v] of chars) {
-                if (chars.get(mostCommonChar) < v) {
-                    mostCommonChar = k;
-                }
-            };
+            let newMostCommonChar = chars.get(mostCommonChar)
+            if (newMostCommonChar < longestSection / 2) {
+                for (const [k,v] of chars) {
+                    if (newMostCommonChar < v) {
+                        mostCommonChar = k;
+                        break;
+                    }
+                };
+            }
         }
 
         longestSection = Math.max((end+1-start),longestSection);
