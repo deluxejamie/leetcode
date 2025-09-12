@@ -10,17 +10,14 @@ var exist = function(board, word) {
             const prev = board[x][y];
             board[x][y] = "";
 
-            for (const [trX,trY] of [[0,1],[1,0],[0,-1],[-1,0]]) {
-                const newX = x+trX;
-                const newY = y+trY;
-                if (newX < 0 || newX >= board.length) continue;
-                if (newY < 0 || newY >= board[0].length) continue;
-                if (solver(newX,newY,i+1)) return true;
-            }
+            if (
+                (x+1 < board.length && solver(x+1,y,i+1)) ||
+                (x-1 >= 0 && solver(x-1,y,i+1)) || 
+                (y+1 < board[0].length && solver(x,y+1,i+1)) ||
+                (y-1 >= 0 && solver(x,y-1,i+1))
+                ) return true; 
             board[x][y] = prev
-            
-        }
-        return false;
+        } else return false;
     }
 
     for (let x=0;x<board.length;x++) {
