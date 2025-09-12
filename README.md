@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/deluxejamie/leetcode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/deluxejamie/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/deluxejamie/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/deluxejamie/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/deluxejamie/leetcode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/deluxejamie/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0257-binary-tree-paths](https://github.com/deluxejamie/leetcode/tree/master/0257-binary-tree-paths) |
+| [0424-longest-repeating-character-replacement](https://github.com/deluxejamie/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [3462-vowels-game-in-a-string](https://github.com/deluxejamie/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/deluxejamie/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/deluxejamie/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/deluxejamie/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/deluxejamie/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1138-grumpy-bookstore-owner](https://github.com/deluxejamie/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 ## Bit Manipulation
 |  |
