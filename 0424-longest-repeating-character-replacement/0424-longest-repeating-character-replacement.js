@@ -11,7 +11,7 @@ var characterReplacement = function(s, k) {
     for (let end=0;end <s.length;end++) {
         let newFreq = (chars.get(s[end]) ?? 0) +1
         chars.set(s[end],newFreq);
-        if (newFreq >= ( chars.get(mostCommonChar) ?? 0) || (s[end] != mostCommonChar && k==0)) {
+        if (newFreq >= ( chars.get(mostCommonChar) ?? 0)) {
             mostCommonChar = s[end];
         }
 
