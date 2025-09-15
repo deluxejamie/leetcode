@@ -12,6 +12,8 @@ var sortVowels = function(s) {
         vowelsContained.set(s[i], (vowelsContained.get(s[i]) ?? 0) + 1);
     };
 
+    if (vowelPositions.length == 0) return s;
+
 
     let vowels = [..."AEIOU",..."aeiou"];
     let currentVowelsPosition = 0;
