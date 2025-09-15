@@ -8,6 +8,14 @@ var canBeTypedWords = function(text, brokenLetters) {
     const letters = new Map();
     for (const l of brokenLetters) letters.set(l,true);
 
-    return words.reduce((prev,val) => [...val].some(l => letters.has(l)) ? prev : prev+1,0)
-    
+    return words.reduce((prev,val) => {
+        let next = prev+1;
+        for (let i=0;i<val.length;i++) {
+            if (letters.has(val[i])) {
+                next = prev;
+                break;
+            }
+        }
+        return next;    
+    },0)
 };
