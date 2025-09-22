@@ -11,7 +11,7 @@ var maxFrequencyElements = function(nums) {
         if (newFrequency >= maxFrequency) maxFrequency = newFrequency;
     }
     let result = 0;
-    for (const [k,v] of map.entries()) {
+    for (const [k,v] of map) {
         if (v == maxFrequency) result += v
     }
     return result;
