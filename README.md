@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/deluxejamie/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/deluxejamie/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1138-grumpy-bookstore-owner](https://github.com/deluxejamie/leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/deluxejamie/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/deluxejamie/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/deluxejamie/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deluxejamie/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/deluxejamie/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deluxejamie/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/deluxejamie/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
