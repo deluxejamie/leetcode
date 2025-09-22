@@ -13,8 +13,8 @@ var isIsomorphic = function(s, t) {
         const char = s[i];
         const mappedChar = t[i];
         if ((
-            ltr.has(char) && ltr.get(char) != mappedChar
-        ) || (rtl.has(mappedChar) && rtl.get(mappedChar) != char)) return false;
+           (ltr.get(char) ?? mappedChar) != mappedChar
+        ) || ((rtl.get(mappedChar) ?? char) != char)) return false;
         ltr.set(char,mappedChar);
         rtl.set(mappedChar,char);
     }
