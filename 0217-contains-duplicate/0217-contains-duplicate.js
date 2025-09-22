@@ -4,9 +4,9 @@
  */
 var containsDuplicate = function(nums) {
     const vals = new Map();
-    for (const num of nums) {
-        if (vals.has(num)) return true;
-        vals.set(num,true);
+    for (let i=0;i<nums.length;i++) {
+        if (vals.has(nums[i])) return true;
+        vals.set(nums[i],true)
     }
     return false;
 };
