@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/deluxejamie/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/deluxejamie/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/deluxejamie/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/deluxejamie/leetcode/tree/master/0229-majority-element-ii) |
 | [1138-grumpy-bookstore-owner](https://github.com/deluxejamie/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/deluxejamie/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/deluxejamie/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/deluxejamie/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/deluxejamie/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/deluxejamie/leetcode/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/deluxejamie/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deluxejamie/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/deluxejamie/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/deluxejamie/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/deluxejamie/leetcode/tree/master/0229-majority-element-ii) |
 | [2887-sort-vowels-in-a-string](https://github.com/deluxejamie/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Two Pointers
 |  |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/deluxejamie/leetcode/tree/master/0229-majority-element-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/deluxejamie/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
