@@ -4,23 +4,20 @@
  */
 var sortByBits = function(arr) {
 
-    const map = new Map();
+    const bits = new Array(arr.length).fill(0);
     for (let i=0;i<arr.length;i++) {
-        let numOf1s = 0;
         let res = arr[i];
         while (res !=0) {
-            numOf1s = (res&1)
+            bits[i]+= (res&1)
             res >>= 1;
         }
-    
-        for (const char of arr[i].toString(2)) {
-            if (char == "1") numOf1s++;
-        }
-        map.set(arr[i],numOf1s);
     }
 
-
-    return arr
-    .sort((a,b) => (map.get(a)-map.get(b)) || (a-b) )
+    const indexes = new Array(arr.length);
+    for (let i=0;i<indexes.length;i++) indexes[i] = i;
+    
+    indexes.sort((a,b) => (bits[a] - bits[b]) || (arr[a] - arr[b]) )
+    for (let i=0;i<indexes.length;i++) indexes[i] = arr[indexes[i]];
+    return indexes;
     
 };
