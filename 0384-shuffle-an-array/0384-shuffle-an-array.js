@@ -2,13 +2,15 @@
  * @param {number[]} nums
  */
 var Solution = function(nums) {    
-    this.original = nums;
+    this.original = [...nums];
+    this.current = [...nums];
 };
 
 /**
  * @return {number[]}
  */
 Solution.prototype.reset = function() {
+    this.current = [...this.original];
     return this.original;
 };
 
@@ -16,14 +18,11 @@ Solution.prototype.reset = function() {
  * @return {number[]}
  */
 Solution.prototype.shuffle = function() {
-    const solution = [];
-    const available = [...this.original];
-    for (let i=0;i<this.original.length;i++) {
-        const targetIndex = Math.floor(Math.random() * available.length);
-        solution.push(available[targetIndex]);
-        available.splice(targetIndex,1);
+    for (let i=this.current.length-1;i>0;i--) {
+        const newRandomIndex = Math.floor(Math.random() * (i+1));
+        [this.current[i],this.current[newRandomIndex]] = [this.current[newRandomIndex],this.current[i]];
     }
-    return solution;
+    return this.current;
 };
 
 /** 
