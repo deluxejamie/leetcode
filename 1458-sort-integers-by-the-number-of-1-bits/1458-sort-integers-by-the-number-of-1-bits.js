@@ -7,6 +7,12 @@ var sortByBits = function(arr) {
     const map = new Map();
     for (let i=0;i<arr.length;i++) {
         let numOf1s = 0;
+        let res = arr[i];
+        while (res !=0) {
+            numOf1s = (res&1)
+            res >>= 1;
+        }
+    
         for (const char of arr[i].toString(2)) {
             if (char == "1") numOf1s++;
         }
