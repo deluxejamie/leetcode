@@ -2,7 +2,7 @@
  * @param {number[]} nums
  */
 var Solution = function(nums) {    
-    this.original = nums;
+    this.original = [...nums];
     this.current = [...nums];
 };
 
