@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/deluxejamie/leetcode/tree/master/0229-majority-element-ii) |
 | [0384-shuffle-an-array](https://github.com/deluxejamie/leetcode/tree/master/0384-shuffle-an-array) |
 | [1138-grumpy-bookstore-owner](https://github.com/deluxejamie/leetcode/tree/master/1138-grumpy-bookstore-owner) |
+| [1306-minimum-absolute-difference](https://github.com/deluxejamie/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deluxejamie/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/deluxejamie/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/deluxejamie/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/deluxejamie/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/deluxejamie/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/deluxejamie/leetcode/tree/master/0242-valid-anagram) |
+| [1306-minimum-absolute-difference](https://github.com/deluxejamie/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deluxejamie/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/deluxejamie/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2887-sort-vowels-in-a-string](https://github.com/deluxejamie/leetcode/tree/master/2887-sort-vowels-in-a-string) |
