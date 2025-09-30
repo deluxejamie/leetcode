@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/deluxejamie/leetcode/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/deluxejamie/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/deluxejamie/leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/deluxejamie/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/deluxejamie/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/deluxejamie/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/deluxejamie/leetcode/tree/master/0079-word-search) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/deluxejamie/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/deluxejamie/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deluxejamie/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/deluxejamie/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/deluxejamie/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/deluxejamie/leetcode/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/deluxejamie/leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/deluxejamie/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deluxejamie/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/deluxejamie/leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/deluxejamie/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/deluxejamie/leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/deluxejamie/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/deluxejamie/leetcode/tree/master/0079-word-search) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/deluxejamie/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/deluxejamie/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/deluxejamie/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/deluxejamie/leetcode/tree/master/0242-valid-anagram) |
