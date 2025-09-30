@@ -6,7 +6,7 @@ var breakPalindrome = function(palindrome) {
     if (palindrome.length== 1) return "";
     let updatedString = [...palindrome]
 
-    for (let i=0;i<Math.ceil((palindrome.length-1)/2);i++) {
+    for (let i=0;i<Math.floor((palindrome.length)/2);i++) {
         if (palindrome[i] != "a") {
             updatedString[i] = "a"
             return updatedString.join("");
