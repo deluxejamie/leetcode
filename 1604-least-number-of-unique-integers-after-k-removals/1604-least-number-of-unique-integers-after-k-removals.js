@@ -11,9 +11,7 @@ var findLeastNumOfUniqueInts = function(arr, k) {
 
     if (k == 0) return occs.size;
 
-    const ascending = [...occs].sort(([ka,va], [kb,vb]) => va - vb);
-
-    console.log(ascending)
+    const ascending = [...occs.entries()].sort((a, b) => a[1] - b[1]);
 
     let i=0;
     while (k > 0) {
