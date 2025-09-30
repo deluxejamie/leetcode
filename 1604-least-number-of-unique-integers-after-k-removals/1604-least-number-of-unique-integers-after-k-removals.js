@@ -5,9 +5,7 @@
  */
 var findLeastNumOfUniqueInts = function(arr, k) {
     const occs = new Map();
-    for (const elem of arr) {
-        occs.set(elem,(occs.get(elem) ?? 0)+1)
-    }
+    arr.forEach(elem => occs.set(elem,(occs.get(elem) ?? 0)+1));
 
     if (k == 0) return occs.size;
 
