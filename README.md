@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/deluxejamie/leetcode/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/deluxejamie/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deluxejamie/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1652-minimum-suffix-flips](https://github.com/deluxejamie/leetcode/tree/master/1652-minimum-suffix-flips) |
 | [2887-sort-vowels-in-a-string](https://github.com/deluxejamie/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/deluxejamie/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
@@ -187,4 +188,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/deluxejamie/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1652-minimum-suffix-flips](https://github.com/deluxejamie/leetcode/tree/master/1652-minimum-suffix-flips) |
 <!---LeetCode Topics End-->
