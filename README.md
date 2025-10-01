@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/deluxejamie/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/deluxejamie/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0384-shuffle-an-array](https://github.com/deluxejamie/leetcode/tree/master/0384-shuffle-an-array) |
+| [0792-binary-search](https://github.com/deluxejamie/leetcode/tree/master/0792-binary-search) |
 | [1138-grumpy-bookstore-owner](https://github.com/deluxejamie/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1306-minimum-absolute-difference](https://github.com/deluxejamie/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deluxejamie/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/deluxejamie/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0792-binary-search](https://github.com/deluxejamie/leetcode/tree/master/0792-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
