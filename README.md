@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deluxejamie/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/deluxejamie/leetcode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/deluxejamie/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/deluxejamie/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/deluxejamie/leetcode/tree/master/0049-group-anagrams) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deluxejamie/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/deluxejamie/leetcode/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/deluxejamie/leetcode/tree/master/0011-container-with-most-water) |
 | [1252-break-a-palindrome](https://github.com/deluxejamie/leetcode/tree/master/1252-break-a-palindrome) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/deluxejamie/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1652-minimum-suffix-flips](https://github.com/deluxejamie/leetcode/tree/master/1652-minimum-suffix-flips) |
