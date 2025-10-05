@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/deluxejamie/leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/deluxejamie/leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/deluxejamie/leetcode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/deluxejamie/leetcode/tree/master/0091-decode-ways) |
 | [0187-repeated-dna-sequences](https://github.com/deluxejamie/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/deluxejamie/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/deluxejamie/leetcode/tree/master/0242-valid-anagram) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/deluxejamie/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/deluxejamie/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/deluxejamie/leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/deluxejamie/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deluxejamie/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Counting
 |  |
