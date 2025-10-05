@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/deluxejamie/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/deluxejamie/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0384-shuffle-an-array](https://github.com/deluxejamie/leetcode/tree/master/0384-shuffle-an-array) |
+| [0747-min-cost-climbing-stairs](https://github.com/deluxejamie/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/deluxejamie/leetcode/tree/master/0792-binary-search) |
 | [1138-grumpy-bookstore-owner](https://github.com/deluxejamie/leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1306-minimum-absolute-difference](https://github.com/deluxejamie/leetcode/tree/master/1306-minimum-absolute-difference) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/deluxejamie/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/deluxejamie/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deluxejamie/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0747-min-cost-climbing-stairs](https://github.com/deluxejamie/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 ## Counting
 |  |
 | ------- |
