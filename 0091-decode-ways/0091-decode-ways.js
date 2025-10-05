@@ -3,21 +3,22 @@
  * @return {number}
  */
 
-const results = new Map([["",1]]);
-
+const results = new Map();
 
 var numDecodings = function(s) {
-    if (s[0] == "0") return 0;
-    if (s.length == 1) return 1;
-
+    if (s.length === 0) return 1;       // base case: empty string
+    if (s[0] === "0") return 0;         // invalid start
     if (results.has(s)) return results.get(s);
 
-    let thisResult = 0;
+    let thisResult = numDecodings(s.slice(1));  // single-digit
 
-    if (s[0] == "1" || (s[0] == "2" && "0123456".includes(s[1]))) thisResult+= (s.length == 1) ? 1 : numDecodings(s.slice(2));
-    thisResult+=numDecodings(s.slice(1));
+    if (s.length >= 2) {
+        const twoDigit = parseInt(s.slice(0,2), 10);
+        if (twoDigit >= 10 && twoDigit <= 26) {
+            thisResult += numDecodings(s.slice(2));
+        }
+    }
 
-    results.set(s,thisResult);
+    results.set(s, thisResult);
     return thisResult;
-    
 };
