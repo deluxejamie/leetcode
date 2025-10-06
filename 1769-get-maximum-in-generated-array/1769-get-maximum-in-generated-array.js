@@ -9,10 +9,8 @@ var getMaximumGenerated = function(n) {
     nums[1] = 1;
     let max = 1;
 
-    let currentOdd = true;
     for (let i=2;i<=n;i++) {
-        currentOdd = !currentOdd;
-        if (currentOdd === true) {
+        if (i&1) {
             const halvedI = (i-1)/ 2;
             nums[i] = nums[halvedI] + nums[halvedI+1];
         } else {
@@ -20,6 +18,5 @@ var getMaximumGenerated = function(n) {
         }
         max = Math.max(max,nums[i]);       
     }
-    console.log(nums)
     return max;
 };
