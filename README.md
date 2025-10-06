@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/deluxejamie/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deluxejamie/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/deluxejamie/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1769-get-maximum-in-generated-array](https://github.com/deluxejamie/leetcode/tree/master/1769-get-maximum-in-generated-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/deluxejamie/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/deluxejamie/leetcode/tree/master/1642-water-bottles) |
+| [1769-get-maximum-in-generated-array](https://github.com/deluxejamie/leetcode/tree/master/1769-get-maximum-in-generated-array) |
 | [3336-water-bottles-ii](https://github.com/deluxejamie/leetcode/tree/master/3336-water-bottles-ii) |
 ## Memoization
 |  |
