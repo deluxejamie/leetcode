@@ -45,7 +45,6 @@ var longestConsecutive = function(nums) {
             needBelow.set(nums[i]-1, seq);
         }
     }
-    console.log(needAbove,needBelow);
     return maxLength;
 
 };
