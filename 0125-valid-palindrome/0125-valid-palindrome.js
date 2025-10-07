@@ -9,9 +9,6 @@ var isPalindrome = function(s) {
     let left = 0;
     let right = reduced.length-1;
     while (left < right) {
-        while (left < reduced.length-1 && !validChars.has(reduced[left])) left++;
-        while (right > 0 && !validChars.has(reduced[right])) right--;
-        if (left > right) break;
         if (reduced[left++] != reduced[right--]) return false;
     }
     return true;
