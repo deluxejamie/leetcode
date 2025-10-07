@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/deluxejamie/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/deluxejamie/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/deluxejamie/leetcode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/deluxejamie/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/deluxejamie/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0384-shuffle-an-array](https://github.com/deluxejamie/leetcode/tree/master/0384-shuffle-an-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/deluxejamie/leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/deluxejamie/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/deluxejamie/leetcode/tree/master/0238-product-of-array-except-self) |
 ## Brainteaser
 |  |
 | ------- |
