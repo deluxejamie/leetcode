@@ -3,21 +3,17 @@
  * @return {number[]}
  */
 var productExceptSelf = function(nums) {
-    const pres = new Array(nums.length);
-    pres[0] = 1;
-    const suffs = new Array(nums.length);
-    suffs[nums.length-1] = 1;
+    const results = new Array(nums.length);
+    results[0] = 1;
     for (let i=1;i<nums.length;i++) {
-        pres[i] = pres[i-1] * nums[i-1];
+        results[i] = results[i-1] * nums[i-1];
     }
+    console.log(results);
+    let total = 1;
     for (let i=nums.length-2;i>=0;i--) {
-        suffs[i] = suffs[i+1] * nums[i+1]
+        total *= nums[i+1]
+        results[i] *= (total);
     }
-
-    const res = new Array(nums.length);
-    for (let i=0;i<res.length;i++) {
-        res[i] = pres[i] * suffs[i];
-    }
-    return res;
+    return results;
     
 };
