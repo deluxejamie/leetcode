@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/deluxejamie/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/deluxejamie/leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/deluxejamie/leetcode/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/deluxejamie/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/deluxejamie/leetcode/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/deluxejamie/leetcode/tree/master/0263-ugly-number) |
 | [0384-shuffle-an-array](https://github.com/deluxejamie/leetcode/tree/master/0384-shuffle-an-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deluxejamie/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/deluxejamie/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/deluxejamie/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/deluxejamie/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/deluxejamie/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deluxejamie/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/deluxejamie/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/deluxejamie/leetcode/tree/master/1013-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/deluxejamie/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
