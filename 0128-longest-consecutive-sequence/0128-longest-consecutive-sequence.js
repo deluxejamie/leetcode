@@ -9,10 +9,9 @@ var longestConsecutive = function(nums) {
         // not the start of the sequence
         if (set.has(num-1)) continue;
         let sequenceLength = 1;
-        let j=num+1;
-        while (set.has(j)) {
+
+        while (set.has(num+sequenceLength)) {
             sequenceLength++;
-            j++;
         }
         maxLength = Math.max(maxLength,sequenceLength)
     }
