@@ -5,13 +5,14 @@
 
 const validChars = new Set("abcdefghijklmnopqrstuvwxyz0123456789");
 var isPalindrome = function(s) {
+    const reduced = [...s.toLowerCase()].filter(c => validChars.has(c)).join('');
     let left = 0;
-    let right = s.length-1;
+    let right = reduced.length-1;
     while (left < right) {
-        while (left < s.length-1 && !validChars.has(s[left].toLowerCase())) left++;
-        while (right > 0 && !validChars.has(s[right].toLowerCase())) right--;
+        while (left < reduced.length-1 && !validChars.has(reduced[left])) left++;
+        while (right > 0 && !validChars.has(reduced[right])) right--;
         if (left > right) break;
-        if (s[left++].toLowerCase() != s[right--].toLowerCase()) return false;
+        if (reduced[left++] != reduced[right--]) return false;
     }
     return true;
 };
