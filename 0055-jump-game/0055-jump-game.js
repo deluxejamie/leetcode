@@ -34,6 +34,7 @@ var canJump = function(nums) {
     // }
     // return reachesSolution.has(0);
 
+    // some other idea i had while doing the dishes, lol
     let maxSteps = nums[0];
     for (let i=0;i<nums.length;i++) {
         if (i == nums.length-1) return true;
