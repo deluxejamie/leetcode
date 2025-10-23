@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/deluxejamie/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/deluxejamie/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/deluxejamie/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/deluxejamie/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/deluxejamie/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/deluxejamie/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/deluxejamie/leetcode/tree/master/0079-word-search) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deluxejamie/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/deluxejamie/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/deluxejamie/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/deluxejamie/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/deluxejamie/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/deluxejamie/leetcode/tree/master/0091-decode-ways) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/deluxejamie/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/deluxejamie/leetcode/tree/master/0055-jump-game) |
 | [1252-break-a-palindrome](https://github.com/deluxejamie/leetcode/tree/master/1252-break-a-palindrome) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/deluxejamie/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1652-minimum-suffix-flips](https://github.com/deluxejamie/leetcode/tree/master/1652-minimum-suffix-flips) |
