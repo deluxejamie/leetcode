@@ -10,11 +10,10 @@ var canJump = function(nums) {
         if (i == nums.length-1) return true;
         visited.add(i);
 
-        for (let p=1;p<=nums[i];p++) {
+        for (let p=nums[i];p>0;p--) {
             if (visitPos(p+i)) {
                 return true;
-            } else {
-            }
+            } 
         }
         return false;
     }
