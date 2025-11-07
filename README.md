@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/deluxejamie/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/deluxejamie/leetcode/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/deluxejamie/leetcode/tree/master/0620-not-boring-movies) |
+| [1390-average-selling-price](https://github.com/deluxejamie/leetcode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/deluxejamie/leetcode/tree/master/1415-students-and-examinations) |
 | [1801-average-time-of-process-per-machine](https://github.com/deluxejamie/leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/deluxejamie/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
