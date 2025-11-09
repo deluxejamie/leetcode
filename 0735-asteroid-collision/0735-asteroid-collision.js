@@ -8,7 +8,7 @@ var asteroidCollision = function(asteroids) {
     for (const asteroid of asteroids) {
         remaining.push(asteroid);
         // moving towards eachother
-        while (remaining.length > 1 && remaining[remaining.length-1] < 0 && remaining[remaining.length-2] > 0) {
+        while (remaining[remaining.length-1] < 0 && remaining[remaining.length-2] > 0) {
             const right = remaining.pop();
             const left = remaining.pop();
             if (left == -right) continue;
