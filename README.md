@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/deluxejamie/leetcode/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/deluxejamie/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/deluxejamie/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/deluxejamie/leetcode/tree/master/0443-string-compression) |
 | [1252-break-a-palindrome](https://github.com/deluxejamie/leetcode/tree/master/1252-break-a-palindrome) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deluxejamie/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1652-minimum-suffix-flips](https://github.com/deluxejamie/leetcode/tree/master/1652-minimum-suffix-flips) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/deluxejamie/leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/deluxejamie/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deluxejamie/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0443-string-compression](https://github.com/deluxejamie/leetcode/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
