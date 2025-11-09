@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/deluxejamie/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/deluxejamie/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0384-shuffle-an-array](https://github.com/deluxejamie/leetcode/tree/master/0384-shuffle-an-array) |
+| [0735-asteroid-collision](https://github.com/deluxejamie/leetcode/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/deluxejamie/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/deluxejamie/leetcode/tree/master/0792-binary-search) |
 | [1138-grumpy-bookstore-owner](https://github.com/deluxejamie/leetcode/tree/master/1138-grumpy-bookstore-owner) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/deluxejamie/leetcode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deluxejamie/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/deluxejamie/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0735-asteroid-collision](https://github.com/deluxejamie/leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/deluxejamie/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/deluxejamie/leetcode/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/deluxejamie/leetcode/tree/master/1642-water-bottles) |
 | [1769-get-maximum-in-generated-array](https://github.com/deluxejamie/leetcode/tree/master/1769-get-maximum-in-generated-array) |
 | [2470-removing-stars-from-a-string](https://github.com/deluxejamie/leetcode/tree/master/2470-removing-stars-from-a-string) |
