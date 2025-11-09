@@ -4,28 +4,27 @@
  * @return {boolean}
  */
 var closeStrings = function(word1, word2) {
+    const offset = "a".charCodeAt(0);
     if (word1.length != word2.length) return false;
-    const occs1 = new Map();
-    const occs2 = new Map();
+    const occs1 = new Array(26).fill(0);
+    const occs2 = new Array(26).fill(0);
     for (let i=0;i<word1.length;i++) {
-        occs1.set(word1[i], (occs1.get(word1[i]) ?? 0) + 1);
+        occs1[word1.charCodeAt(i) - offset]++;
     }
     for (let i=0;i<word2.length;i++) {
-        occs2.set(word2[i], (occs2.get(word2[i]) ?? 0) + 1);
+        occs2[word2.charCodeAt(i) - offset]++;
     }
-    const occs1Entries = [...occs1.entries()];
-    const occs2Entries = [...occs2.entries()];
-
-    if (occs1Entries.length != occs2Entries.length) return false;
-
-    occs1Entries.sort(([_k1,v1], [_k2,v2]) => v1-v2)
-    occs2Entries.sort(([_k1,v1], [_k2,v2]) => v1-v2)
+    for (let i=0;i<occs1.length;i++) {
+        if (
+            (occs1[i] > 0 && occs2[i] == 0) ||
+            (occs2[i] > 0 && occs1[i] == 0)
+        ) return false;
+    }
+    occs1.sort((a,b) => a-b);
+    occs2.sort((a,b) => a-b);
     
-    for (let i=0;i<occs1Entries.length;i++) {if (!occs2.has(occs1Entries[i][0])) return false;}
-    for (let i=0;i<occs2Entries.length;i++) {if (!occs1.has(occs2Entries[i][0])) return false;}
-    
-    for (let i=0;i<occs1Entries.length;i++) {
-        if (occs1Entries[i][1] != occs2Entries[i][1]) return false;
+    for (let i=0;i<occs1.length;i++) {
+        if (occs1[i] != occs2[i]) return false;
     }
     return true;
 };
