@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deluxejamie/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/deluxejamie/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1769-get-maximum-in-generated-array](https://github.com/deluxejamie/leetcode/tree/master/1769-get-maximum-in-generated-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/deluxejamie/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/deluxejamie/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/deluxejamie/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1777-determine-if-two-strings-are-close](https://github.com/deluxejamie/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/deluxejamie/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2428-equal-row-and-column-pairs](https://github.com/deluxejamie/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/deluxejamie/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/deluxejamie/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/deluxejamie/leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/deluxejamie/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/deluxejamie/leetcode/tree/master/0079-word-search) |
+| [2428-equal-row-and-column-pairs](https://github.com/deluxejamie/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/deluxejamie/leetcode/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/deluxejamie/leetcode/tree/master/1642-water-bottles) |
 | [1769-get-maximum-in-generated-array](https://github.com/deluxejamie/leetcode/tree/master/1769-get-maximum-in-generated-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/deluxejamie/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/deluxejamie/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3336-water-bottles-ii](https://github.com/deluxejamie/leetcode/tree/master/3336-water-bottles-ii) |
 ## Memoization
