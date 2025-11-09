@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/deluxejamie/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deluxejamie/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/deluxejamie/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1777-determine-if-two-strings-are-close](https://github.com/deluxejamie/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/deluxejamie/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/deluxejamie/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/deluxejamie/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-break-a-palindrome](https://github.com/deluxejamie/leetcode/tree/master/1252-break-a-palindrome) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deluxejamie/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1652-minimum-suffix-flips](https://github.com/deluxejamie/leetcode/tree/master/1652-minimum-suffix-flips) |
+| [1777-determine-if-two-strings-are-close](https://github.com/deluxejamie/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/deluxejamie/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/deluxejamie/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/deluxejamie/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-minimum-absolute-difference](https://github.com/deluxejamie/leetcode/tree/master/1306-minimum-absolute-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deluxejamie/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/deluxejamie/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1777-determine-if-two-strings-are-close](https://github.com/deluxejamie/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2887-sort-vowels-in-a-string](https://github.com/deluxejamie/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Two Pointers
 |  |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/deluxejamie/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deluxejamie/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/deluxejamie/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1777-determine-if-two-strings-are-close](https://github.com/deluxejamie/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/deluxejamie/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/deluxejamie/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/deluxejamie/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
