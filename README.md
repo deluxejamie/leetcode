@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/deluxejamie/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/deluxejamie/leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/deluxejamie/leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2470-removing-stars-from-a-string](https://github.com/deluxejamie/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/deluxejamie/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/deluxejamie/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/deluxejamie/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/deluxejamie/leetcode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deluxejamie/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/deluxejamie/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [2470-removing-stars-from-a-string](https://github.com/deluxejamie/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-water-bottles](https://github.com/deluxejamie/leetcode/tree/master/1642-water-bottles) |
 | [1769-get-maximum-in-generated-array](https://github.com/deluxejamie/leetcode/tree/master/1769-get-maximum-in-generated-array) |
+| [2470-removing-stars-from-a-string](https://github.com/deluxejamie/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3336-water-bottles-ii](https://github.com/deluxejamie/leetcode/tree/master/3336-water-bottles-ii) |
 ## Memoization
 |  |
