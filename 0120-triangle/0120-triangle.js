@@ -10,7 +10,13 @@ var minimumTotal = function(triangle) {
             triangle[i][j]+= Math.min(right, left);
         }
     }
+    let min = Number.POSITIVE_INFINITY;
+    const finalRow = triangle[triangle.length-1];
+    for (let i=0;i<finalRow.length;i++) {
+        min = Math.min(min, finalRow[i])
+    }
 
-    return Math.min(...triangle[triangle.length-1]);
+    return min;
+
     
 };
