@@ -4,21 +4,21 @@
  * @return {string}
  */
 var getHint = function(secret, guess) {
-    const occs = new Map();
+    const occs = new Array(10).fill(0);
     for (let i=0;i<secret.length;i++) {
-        occs.set(secret[i], (occs.get(secret[i]) ?? 0) + 1);
+        occs[secret[i]]++;
     }
     let bulls = 0;
     for (let i=0;i<guess.length;i++) {
         if (secret[i] == guess[i]) {
             bulls++;
-            occs.set(secret[i], (occs.get(secret[i]) -1));
+            occs[secret[i]]--;
         }
     }
     let cows = 0;
     for (let i=0;i<guess.length;i++) {
-        if ((secret[i] != guess[i]) && (occs.get(guess[i]) ?? 0) > 0) {
-            occs.set(guess[i], (occs.get(guess[i]) -1));
+        if ((secret[i] != guess[i]) && occs[guess[i]] > 0) {
+            occs[guess[i]]--;
             cows++;
         }
     }
