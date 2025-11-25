@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/deluxejamie/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/deluxejamie/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/deluxejamie/leetcode/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/deluxejamie/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/deluxejamie/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/deluxejamie/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deluxejamie/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/deluxejamie/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/deluxejamie/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/deluxejamie/leetcode/tree/master/0257-binary-tree-paths) |
+| [0299-bulls-and-cows](https://github.com/deluxejamie/leetcode/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/deluxejamie/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/deluxejamie/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/deluxejamie/leetcode/tree/master/0443-string-compression) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/deluxejamie/leetcode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/deluxejamie/leetcode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/deluxejamie/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deluxejamie/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/deluxejamie/leetcode/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
