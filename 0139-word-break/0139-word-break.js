@@ -10,9 +10,9 @@ var wordBreak = function(s, wordDict) {
         dp[i] = false;
         for (const word of wordDict) {
             if (word.length > s.length-i || !dp[word.length + i]) continue;
-
             if (s.startsWith(word,i)) {
                 dp[i] = true;
+                break;
             }
         }
     }
