@@ -11,7 +11,7 @@ var wordBreak = function(s, wordDict) {
         for (const word of wordDict) {
             if (word.length > s.length-i || !dp[word.length + i]) continue;
 
-            if (s.substring(i,i+word.length) == word) {
+            if (s.startsWith(word,i)) {
                 dp[i] = true;
             }
         }
