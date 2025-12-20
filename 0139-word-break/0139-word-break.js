@@ -16,7 +16,6 @@ var wordBreak = function(s, wordDict) {
             }
         }
     }
-    console.log(dp)
     return dp[0];
     
 };
