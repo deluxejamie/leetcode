@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deluxejamie/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/deluxejamie/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/deluxejamie/leetcode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/deluxejamie/leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/deluxejamie/leetcode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deluxejamie/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deluxejamie/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/deluxejamie/leetcode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/deluxejamie/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/deluxejamie/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Rolling Hash
