@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/deluxejamie/leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/deluxejamie/leetcode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deluxejamie/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/deluxejamie/leetcode/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/deluxejamie/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0735-asteroid-collision](https://github.com/deluxejamie/leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/deluxejamie/leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/deluxejamie/leetcode/tree/master/0155-min-stack) |
 | [0384-shuffle-an-array](https://github.com/deluxejamie/leetcode/tree/master/0384-shuffle-an-array) |
 ## Randomized
 |  |
