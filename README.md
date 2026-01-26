@@ -216,15 +216,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/deluxejamie/leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/deluxejamie/leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/deluxejamie/leetcode/tree/master/0079-word-search) |
+| [0226-invert-binary-tree](https://github.com/deluxejamie/leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/deluxejamie/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/deluxejamie/leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/deluxejamie/leetcode/tree/master/0257-binary-tree-paths) |
 ## Matrix
 |  |
@@ -409,5 +412,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/deluxejamie/leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/deluxejamie/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
