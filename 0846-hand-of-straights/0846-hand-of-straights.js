@@ -9,17 +9,17 @@ var isNStraightHand = function(hand, groupSize) {
     for (let i=0;i<hand.length;i++) {
         occs.set(hand[i], (occs.get(hand[i]) ?? 0)+1); 
     }
-    const cards = [...occs.keys()].sort((a,b) => b-a);
-    while (cards.length != 0 ) {
-        const lowestCard = cards[cards.length-1];
+    hand.sort((a,b) => a-b);
+    for (let i=0;i<hand.length;i++) {
+        if (occs.get(hand[i]) == 0) continue;
+        const lowestCard = hand[i];
         for (let j=0;j<groupSize;j++) {
             const targetCard = lowestCard + j;
             const needed = occs.get(targetCard) ?? 0;
             if (needed < 1) return false;
             occs.set(targetCard,needed-1);
-            if (needed == 1) cards.splice(cards.indexOf(needed),1);
         }
-        
     }
+    
     return true;
 };
