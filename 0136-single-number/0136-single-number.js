@@ -3,10 +3,9 @@
  * @return {number}
  */
 var singleNumber = function(nums) {
-    const set = new Set();
-    for (let i=0;i<nums.length;i++) {
-        if (set.has(nums[i])) set.delete(nums[i])
-        else set.add(nums[i])
+    let result = nums[0]
+    for (let i=1;i<nums.length;i++) {
+        result ^= nums[i];
     }
-    return [...set][0];
+    return result;
 };
