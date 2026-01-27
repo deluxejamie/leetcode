@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/deluxejamie/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/deluxejamie/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/deluxejamie/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/deluxejamie/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/deluxejamie/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/deluxejamie/leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/deluxejamie/leetcode/tree/master/0118-pascals-triangle) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/deluxejamie/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/deluxejamie/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/deluxejamie/leetcode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/deluxejamie/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/deluxejamie/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/deluxejamie/leetcode/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/deluxejamie/leetcode/tree/master/0257-binary-tree-paths) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/deluxejamie/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/deluxejamie/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/deluxejamie/leetcode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/deluxejamie/leetcode/tree/master/0187-repeated-dna-sequences) |
