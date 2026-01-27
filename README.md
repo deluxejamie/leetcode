@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/deluxejamie/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/deluxejamie/leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/deluxejamie/leetcode/tree/master/0257-binary-tree-paths) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/deluxejamie/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/deluxejamie/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/deluxejamie/leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/deluxejamie/leetcode/tree/master/0257-binary-tree-paths) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/deluxejamie/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Matrix
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/deluxejamie/leetcode/tree/master/0155-min-stack) |
 | [0384-shuffle-an-array](https://github.com/deluxejamie/leetcode/tree/master/0384-shuffle-an-array) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/deluxejamie/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Randomized
 |  |
 | ------- |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/deluxejamie/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/deluxejamie/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/deluxejamie/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/deluxejamie/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
@@ -443,4 +447,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/deluxejamie/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/deluxejamie/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/deluxejamie/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
