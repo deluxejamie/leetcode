@@ -17,9 +17,7 @@ class Solution:
             print(node.val, height_left,height_right)
 
             if abs(height_left - height_right) > 1:
-                found = False
-                print("found")
-            
+                found = False            
             return max(height_left,height_right)
 
         solve(root)
