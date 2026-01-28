@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deluxejamie/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/deluxejamie/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/deluxejamie/leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/deluxejamie/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/deluxejamie/leetcode/tree/master/0077-combinations) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/deluxejamie/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deluxejamie/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/deluxejamie/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/deluxejamie/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/deluxejamie/leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/deluxejamie/leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/deluxejamie/leetcode/tree/master/0076-minimum-window-substring) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deluxejamie/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/deluxejamie/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/deluxejamie/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/deluxejamie/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/deluxejamie/leetcode/tree/master/0055-jump-game) |
