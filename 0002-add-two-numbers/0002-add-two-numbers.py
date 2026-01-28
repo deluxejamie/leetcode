@@ -13,11 +13,12 @@ class Solution:
         while True:
             if not l1 and not l2:
                 break
-            remaining = l1 or l2
-            s = carry + (l1.val if l1 else 0) + (l2.val if l2 else 0)
-            remaining.val = s % 10
+            s = carry
+            if l1: s+= l1.val
+            if l2: s+= l2.val
+            node = ListNode(s%10)
             carry = s // 10
-            current.next = remaining
+            current.next = node
             if l1: l1 = l1.next
             if l2: l2 = l2.next
             current = current.next
