@@ -14,10 +14,9 @@ class Solution:
             height_left = 1 + solve(node.left)
             height_right = 1 + solve(node.right)
 
-            print(node.val, height_left,height_right)
-
             if abs(height_left - height_right) > 1:
-                found = False            
+                found = False
+            
             return max(height_left,height_right)
 
         solve(root)
