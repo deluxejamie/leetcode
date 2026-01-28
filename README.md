@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/deluxejamie/leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/deluxejamie/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/deluxejamie/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/deluxejamie/leetcode/tree/master/0206-reverse-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/deluxejamie/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/deluxejamie/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/deluxejamie/leetcode/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/deluxejamie/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/deluxejamie/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deluxejamie/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/deluxejamie/leetcode/tree/master/0443-string-compression) |
