@@ -20,10 +20,10 @@ class Solution(object):
                 # we are searching this one
                 (x,y) = frontier.pop()
                 unvisited.discard((x,y))
-                if x+1 < len(grid) and grid[x+1][y] == "1" and (x+1,y) in unvisited: frontier.append((x+1,y))
-                if x-1 >= 0 and grid[x-1][y] == "1" and (x-1,y) in unvisited: frontier.append((x-1,y))
-                if y+1 < len(grid[0]) and grid[x][y+1] == "1" and (x,y+1) in unvisited: frontier.append((x,y+1))
-                if y-1 >= 0 and grid[x][y-1] == "1" and (x,y-1) in unvisited: frontier.append((x,y-1))
+                if x+1 < len(grid) and (x+1,y) in unvisited: frontier.append((x+1,y))
+                if x-1 >= 0 and (x-1,y) in unvisited: frontier.append((x-1,y))
+                if y+1 < len(grid[0]) and (x,y+1) in unvisited: frontier.append((x,y+1))
+                if y-1 >= 0 and (x,y-1) in unvisited: frontier.append((x,y-1))
         return islands
 
 
