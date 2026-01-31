@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/deluxejamie/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deluxejamie/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/deluxejamie/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/deluxejamie/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/deluxejamie/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/deluxejamie/leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deluxejamie/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/deluxejamie/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deluxejamie/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/deluxejamie/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/deluxejamie/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/deluxejamie/leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/deluxejamie/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/deluxejamie/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/deluxejamie/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/deluxejamie/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/deluxejamie/leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/deluxejamie/leetcode/tree/master/0200-number-of-islands) |
 | [2428-equal-row-and-column-pairs](https://github.com/deluxejamie/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Sorting
 |  |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/deluxejamie/leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deluxejamie/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/deluxejamie/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/deluxejamie/leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/deluxejamie/leetcode/tree/master/0322-coin-change) |
 ## Geometry
@@ -478,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/deluxejamie/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/deluxejamie/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
