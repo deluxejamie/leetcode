@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/deluxejamie/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1252-break-a-palindrome](https://github.com/deluxejamie/leetcode/tree/master/1252-break-a-palindrome) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/deluxejamie/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1392-longest-happy-prefix](https://github.com/deluxejamie/leetcode/tree/master/1392-longest-happy-prefix) |
 | [1652-minimum-suffix-flips](https://github.com/deluxejamie/leetcode/tree/master/1652-minimum-suffix-flips) |
 | [1777-determine-if-two-strings-are-close](https://github.com/deluxejamie/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/deluxejamie/leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -208,11 +209,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/deluxejamie/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/deluxejamie/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1392-longest-happy-prefix](https://github.com/deluxejamie/leetcode/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/deluxejamie/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/deluxejamie/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1392-longest-happy-prefix](https://github.com/deluxejamie/leetcode/tree/master/1392-longest-happy-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -486,4 +489,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/deluxejamie/leetcode/tree/master/0200-number-of-islands) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/deluxejamie/leetcode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
