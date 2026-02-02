@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/deluxejamie/leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/deluxejamie/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/deluxejamie/leetcode/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/deluxejamie/leetcode/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/deluxejamie/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/deluxejamie/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/deluxejamie/leetcode/tree/master/0217-contains-duplicate) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/deluxejamie/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/deluxejamie/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/deluxejamie/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/deluxejamie/leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/deluxejamie/leetcode/tree/master/0206-reverse-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/deluxejamie/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/deluxejamie/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/deluxejamie/leetcode/tree/master/0155-min-stack) |
 | [0384-shuffle-an-array](https://github.com/deluxejamie/leetcode/tree/master/0384-shuffle-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/deluxejamie/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -500,4 +503,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/deluxejamie/leetcode/tree/master/0274-h-index) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/deluxejamie/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
