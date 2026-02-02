@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/deluxejamie/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/deluxejamie/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/deluxejamie/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/deluxejamie/leetcode/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/deluxejamie/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/deluxejamie/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/deluxejamie/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/deluxejamie/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/deluxejamie/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/deluxejamie/leetcode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/deluxejamie/leetcode/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/deluxejamie/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/deluxejamie/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0846-hand-of-straights](https://github.com/deluxejamie/leetcode/tree/master/0846-hand-of-straights) |
@@ -494,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/deluxejamie/leetcode/tree/master/1392-longest-happy-prefix) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/deluxejamie/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
