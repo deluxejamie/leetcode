@@ -18,7 +18,7 @@ class Solution:
             edge_found = False
 
             while len(frontier) != 0:
-                (x,y) = frontier.pop()
+                (x,y) = frontier.popleft()
                 if (x,y) not in os:
                     continue
                 os.remove((x,y))
