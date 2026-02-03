@@ -6,35 +6,35 @@ class Solution:
         Do not return anything, modify board in-place instead.
         """
 
-        os = set()
+        nonouters = set()
+        outers = set()
         for i in range(0,len(board)):
             for j in range(0,len(board[0])):
                 if board[i][j] == "O":
-                    os.add((i,j))
+                    if i == 0 or i == len(board)-1 or j == 0 or j == len(board[0])-1:
+                        outers.add((i,j))
+                    else:
+                        nonouters.add((i,j))
 
-        while len(os) != 0:
-            reached = []
-            frontier = deque([next(iter(os))])
-            edge_found = False
-
+        while len(outers) != 0:
+            frontier = deque([next(iter(outers))])
+        
             while len(frontier) != 0:
                 (x,y) = frontier.popleft()
-                if (x,y) not in os:
+                if (x,y) in nonouters:
+                    nonouters.remove((x,y))
+                elif (x,y) in outers:
+                    outers.remove((x,y))
+                else:
                     continue
-                os.remove((x,y))
-                reached.append((x,y))
-                if x == 0 or x == len(board)-1 or y == 0 or y == len(board[0])-1:
-                    edge_found = True
                 
-                if (x-1,y) in os: frontier.append((x-1,y))
-                if (x+1,y) in os: frontier.append((x+1,y))
-                if (x,y-1) in os: frontier.append((x,y-1))
-                if (x,y+1) in os: frontier.append((x,y+1))
-                
-            if not edge_found:
-                for (x,y) in reached:
-                    board[x][y] = "X"
-            
+                if (x-1,y) in nonouters: frontier.append((x-1,y))
+                if (x+1,y) in nonouters: frontier.append((x+1,y))
+                if (x,y-1) in nonouters: frontier.append((x,y-1))
+                if (x,y+1) in nonouters: frontier.append((x,y+1))
+
+        for (x,y) in nonouters:
+            board[x][y] = "X"
 
             
 
