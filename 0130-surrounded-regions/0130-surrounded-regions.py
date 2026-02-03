@@ -7,7 +7,7 @@ class Solution:
         """
 
         unvisited = set()
-        frontier = deque()
+        frontier = []
         for i in range(0,len(board)):
             for j in range(0,len(board[0])):
                 if board[i][j] == "O":
@@ -17,7 +17,7 @@ class Solution:
                     unvisited.add((i,j))
 
         while len(frontier) != 0:
-            (x,y) = frontier.popleft()
+            (x,y) = frontier.pop()
             if (x,y) not in unvisited:
                 continue
             unvisited.remove((x,y))
